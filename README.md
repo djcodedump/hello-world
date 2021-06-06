@@ -4,3 +4,4 @@ This is a new line to test how commits work in github
 
 ## Subheader
 Watch this line
+Open index.html in browser
